@@ -1,4 +1,6 @@
-# Business card website with massage services
-## Author: HecyMa
+# Сайт-визитка с услугами массажа
+## Автор: HecyMa
 
+Данный сайт представляет из себя обычную визитку для ознакомления с услугами массажа.
+### Фото сайта-визитки 
 ![i](https://github.com/user-attachments/assets/4fbc38e0-e32e-46a4-ba4c-0ae20b64aea9)
